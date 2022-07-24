@@ -1,0 +1,55 @@
+Thu Jun 02 2022 15:19:43 GMT-0500 (Central Daylight Time) : Error: Creating a new error
+    at D:\Workspace\Prac\backend\src\routes\routing.js:8:15
+    at Layer.handle [as handle_request] (D:\Workspace\Prac\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Workspace\Prac\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Workspace\Prac\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Workspace\Prac\backend\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:47:12)
+Fri Jun 03 2022 12:51:09 GMT-0500 (Central Daylight Time) : Error: Creating a new error
+    at D:\Workspace\Prac\backend\src\routes\routing.js:9:15
+    at Layer.handle [as handle_request] (D:\Workspace\Prac\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Workspace\Prac\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Workspace\Prac\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Workspace\Prac\backend\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:47:12)
+Fri Jun 03 2022 12:51:09 GMT-0500 (Central Daylight Time) : Error: Creating a new error
+    at D:\Workspace\Prac\backend\src\routes\routing.js:9:15
+    at Layer.handle [as handle_request] (D:\Workspace\Prac\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Workspace\Prac\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Workspace\Prac\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Workspace\Prac\backend\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:47:12)
+Fri Jun 03 2022 12:51:27 GMT-0500 (Central Daylight Time) : Error: Creating a new error
+    at D:\Workspace\Prac\backend\src\routes\routing.js:9:15
+    at Layer.handle [as handle_request] (D:\Workspace\Prac\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Workspace\Prac\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Workspace\Prac\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Workspace\Prac\backend\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:47:12)
+Fri Jun 03 2022 12:51:27 GMT-0500 (Central Daylight Time) : Error: Creating a new error
+    at D:\Workspace\Prac\backend\src\routes\routing.js:9:15
+    at Layer.handle [as handle_request] (D:\Workspace\Prac\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Workspace\Prac\backend\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Workspace\Prac\backend\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Workspace\Prac\backend\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Workspace\Prac\backend\node_modules\express\lib\router\index.js:47:12)
